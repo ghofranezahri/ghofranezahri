@@ -10,11 +10,11 @@
 I work at the intersection of **probability theory, machine learning, and financial modeling**, with an emphasis on uncertainty-aware methods and explainable decision systems.
 
 My current focus includes:  
-- 📌 Gaussian Processes & Bayesian Optimization  
-- 📌 Stochastic Calculus & Martingales  
-- 📌 Time-Series Forecasting for Markets  
-- 📌 Reinforcement Learning in Finance  
-- 📌 Portfolio Optimization & Risk Engineering  
+-  Gaussian Processes & Bayesian Optimization  
+-  Stochastic Calculus & Martingales  
+-  Time-Series Forecasting for Markets  
+-  Reinforcement Learning in Finance  
+-  Portfolio Optimization & Risk Engineering  
 
 ---
 
