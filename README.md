@@ -59,5 +59,5 @@ Specialization in quantitative modeling, statistical learning, and financial eng
 ---
 
 ###  Connect With Me 
-📩 Email: **ghofranezahri1@gmail.com**  
-🔗 LinkedIn: **linkedin.com/in/ghofranezahri**  
+📩 Email: [ghofranezahri1@gmail.com](mailto:ghofranezahri1@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/ghofranezahri](https://www.linkedin.com/in/ghofranezahri)
