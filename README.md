@@ -19,7 +19,7 @@ My current focus includes:
 ---
 
 ###  Academic Background  
-📍 **Master’s in Ingénierie du Risque — Finance & Assurance**  
+📍 **Master’s in Ingénierie du Risque - Finance & Assurance**  
 *Université Paris 1 Panthéon-Sorbonne*  
 Specialization in quantitative modeling, statistical learning, and financial engineering.
 
